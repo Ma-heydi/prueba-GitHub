@@ -5,3 +5,4 @@ Estado del proyecto en construcción
 para ejecutar el programa debes poner:
 
 ``npm install react``
+Sistema de Registro 2
